@@ -5,8 +5,55 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Chronos"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Stundenplaner 2022" Height="450" Width="800">
     <Grid>
-        
+        <TabControl>
+            <TabItem Header="Januar">
+                <ListView Margin="10" x:Name="daysJanuar" MouseDoubleClick="ListView_MouseDoubleClick">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Tag" Width="100" DisplayMemberBinding="{Binding DayName}" />
+                            <GridViewColumn Header="Datum" Width="120" DisplayMemberBinding="{Binding DayDate}" />
+                            <GridViewColumn Header="Beginn" Width="50" DisplayMemberBinding="{Binding StartTime}" />
+                            <GridViewColumn Header="Ende" Width="50" DisplayMemberBinding="{Binding FinishTime}" />
+                            <GridViewColumn Header="Pausendauer" Width="50" DisplayMemberBinding="{Binding PauseDuration}" />
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </TabItem>
+            <TabItem Header="Februar">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="März">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="April">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="Mai">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="Juni">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="Juli">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="August">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="September">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="Oktober">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="November">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="Dezember">
+                <Label Content="Content goes here..." />
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>

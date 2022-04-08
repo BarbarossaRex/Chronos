@@ -1,0 +1,15 @@
+C:\Users\mhmax\source\repos\Chronos\Chronos\bin\Debug\Chronos.exe.config
+C:\Users\mhmax\source\repos\Chronos\Chronos\bin\Debug\Chronos.exe
+C:\Users\mhmax\source\repos\Chronos\Chronos\bin\Debug\Chronos.pdb
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\Chronos.csproj.AssemblyReference.cache
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\MainWindow.g.cs
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\App.g.cs
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\Chronos_MarkupCompile.cache
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\Chronos_MarkupCompile.lref
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\MainWindow.baml
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\Chronos.g.resources
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\Chronos.Properties.Resources.resources
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\Chronos.csproj.GenerateResource.cache
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\Chronos.csproj.CoreCompileInputs.cache
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\Chronos.exe
+C:\Users\mhmax\source\repos\Chronos\Chronos\obj\Debug\Chronos.pdb
